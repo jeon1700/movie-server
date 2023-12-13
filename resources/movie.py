@@ -144,3 +144,19 @@ class MovieSearchResource(Resource) :
                 'items' : result_list,
                 'count' : len(result_list)}
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
